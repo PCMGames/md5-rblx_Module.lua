@@ -16,7 +16,7 @@ Encode a Sring (Example):
 local rs = game:GetService("ServerScriptService")
 local md5 = require(rs.md5_Module["md5.rblx"])
 
-print(md5.encode("ewout05 Made This!!"))
+print(md5.encode("Hash String HERE!")) -- You can change the "Hash String HERE!" to something else.
 ```
 
 Btw, You still need to enable "Http requests".
