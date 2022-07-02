@@ -18,3 +18,5 @@ local md5 = require(rs.md5_Module["md5.rblx"])
 
 print(md5.encode("ewout05 Made This!!"))
 ```
+
+Btw, You still need to enable "Http requests".
